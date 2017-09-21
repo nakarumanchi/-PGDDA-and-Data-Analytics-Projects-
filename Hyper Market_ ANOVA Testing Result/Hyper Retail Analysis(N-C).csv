@@ -1,0 +1,142 @@
+ANOVA														
+ANOVA : Store Brand Total Weight in Kgs								ANOVA						
+	Sum of Squares	df	Mean Square	F	Sig.			ANOVA : Branded Total weight in Kgs						
+Between Groups	14687.703	4	3671.926	52.232	.000				Sum of Squares	df	Mean Square	F	Sig.	
+Within Groups	62918.976	895	70.301					Between Groups	1697.708	4	424.427	33.475	.000	
+Total	77606.679	899						Within Groups	11347.604	895	12.679			
+								Total	13045.312	899				
+														
+	Age Group	Store Brand Total Weight in Kgs												
+		Count	Mean	Column N %				ANOVA						
+Age Group	Below 30	223	15.66	24.8%				ANOVA : Loose Total Weight in Kgs						
+	31-40	497	23.48	55.2%					Sum of Squares	df	Mean Square	F	Sig.	
+	41-50	152	27.20	16.9%				Between Groups	5100.522	4	1275.130	47.610	.000	
+	51-60	21	24.19	2.3%				Within Groups	23970.666	895	26.783			
+	61 Above	7	30.14	.8%				Total	29071.188	899				
+														
+														
+														
+"ANOVA : SB, BT and LT in Kgs Vs Amount Spend for month"														
+		Sum of Squares	df	Mean Square	F	Sig.								
+Store Brand Total Weight in Kgs	Between Groups	58589.204	4	14647.301	689.331	.000								
+	Within Groups	19017.474	895	21.249										
+	Total	77606.679	899											
+ Branded Total weight in Kgs	Between Groups	6153.439	4	1538.360	199.776	.000								
+	Within Groups	6891.873	895	7.700										
+	Total	13045.312	899											
+Loose Total Weight in Kgs	Between Groups	25359.794	4	6339.949	1528.874	.000								
+	Within Groups	3711.393	895	4.147										
+	Total	29071.188	899											
+														
+														
+		 Branded Total weight in Kgs												
+		Amont spent per  month	Count	Mean	Column N %	Total N								
+	Amont spent per  month	1500- 2500	311	6.98	34.6%	311								
+		2501- 3500	355	10.50	39.4%	355								
+		3501-4500	82	12.09	9.1%	82								
+		4501-5500	126	12.82	14.0%	126								
+		5501 Above	26	18.50	2.9%	26								
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+"ANOVA : SB, BT and LT in Kgs Vs Fimily Size"														
+		Sum of Squares	df	Mean Square	F	Sig.								
+Store Brand Total Weight in Kgs	Between Groups	11072.533	3	3690.844	49.704	.000								
+	Within Groups	66534.146	896	74.257										
+	Total	77606.679	899											
+ Branded Total weight in Kgs	Between Groups	1113.300	3	371.100	27.867	.000								
+	Within Groups	11932.012	896	13.317										
+	Total	13045.312	899											
+Loose Total Weight in Kgs	Between Groups	5160.240	3	1720.080	64.455	.000								
+	Within Groups	23910.947	896	26.686										
+	Total	29071.188	899											
+														
+	 Branded Total weight in Kgs													
+	Family Size	Count	Mean	Column N %	Total N									
+Family Size	up to 2	136	7.66	15.1%	136									
+	3-4	419	9.96	46.6%	419									
+	5-6	229	10.62	25.4%	229									
+	7 above	116	11.56	12.9%	116									
+														
+														
+														
+"ANOVA : SB, BT and LT in Kgs Vs Income Levels"														
+		Sum of Squares	df	Mean Square	F	Sig.								
+Store Brand Total Weight in Kgs	Between Groups	13107.825	4	3276.956	45.472	.000								
+	Within Groups	64498.854	895	72.066										
+	Total	77606.679	899											
+ Branded Total weight in Kgs	Between Groups	1684.373	4	421.093	33.173	.000								
+	Within Groups	11360.939	895	12.694										
+	Total	13045.312	899											
+Loose Total Weight in Kgs	Between Groups	5622.987	4	1405.747	53.656	.000								
+	Within Groups	23448.200	895	26.199										
+	Total	29071.188	899											
+														
+														
+		 Branded Total weight in Kgs												
+	Income Level	Count	Mean	Column N %	Total N									
+Income Level	"Rs.5,001-15,000"	146	7.30	16.2%	146									
+	"Rs.15,001-25,000"	130	10.43	14.4%	130									
+	"Rs.25,001-35,000"	72	12.77	8.0%	72									
+	"35,001 -45,000"	211	10.01	23.4%	211									
+	"45,001 Above"	341	10.36	37.9%	341									
+														
+														
+														
+"ANOVA : SB, BT and LT in Kgs Vs Profession"														
+		Sum of Squares	df	Mean Square	F	Sig.								
+Store Brand Total Weight in Kgs	Between Groups	119.588	4	29.897	.345	.847								
+	Within Groups	77487.091	895	86.578										
+	Total	77606.679	899											
+ Branded Total weight in Kgs	Between Groups	47.011	4	11.753	.809	.519								
+	Within Groups	12998.302	895	14.523										
+	Total	13045.312	899											
+Loose Total Weight in Kgs	Between Groups	92.737	4	23.184	.716	.581								
+	Within Groups	28978.450	895	32.378										
+	Total	29071.188	899											
+														
+														
+														
+		 Branded Total weight in Kgs												
+	Profession	Count	Mean	Column N %	Total N									
+Profession	Govt Service	180	10.03	20.0%	180									
+	Private Service	578	9.99	64.2%	578									
+	Business	79	9.68	8.8%	79									
+	Student	21	9.05	2.3%	21									
+	Others	42	10.69	4.7%	42									
+														
+														
+														
+"ANOVA : SB, BT and LT in Kgs Vs Education Qualification"														
+		Sum of Squares	df	Mean Square	F	Sig.								
+Store Brand Total Weight in Kgs	Between Groups	10201.702	3	3400.567	45.203	.000								
+	Within Groups	67404.977	896	75.229										
+	Total	77606.679	899											
+ Branded Total weight in Kgs	Between Groups	804.938	3	268.313	19.641	.000								
+	Within Groups	12240.374	896	13.661										
+	Total	13045.312	899											
+Loose Total Weight in Kgs	Between Groups	3340.872	3	1113.624	38.779	.000								
+	Within Groups	25730.316	896	28.717										
+	Total	29071.188	899											
+														
+														
+	 Branded Total weight in Kgs													
+	Education qualification	Count	Mean	Column N %	Total N									
+Education qualification	Professional	400	8.94	44.4%	400									
+	Post Graduation	320	10.72	35.6%	320									
+	Graduation	150	10.92	16.7%	150									
+	Inter/SSC	30	11.43	3.3%	30									
+														
